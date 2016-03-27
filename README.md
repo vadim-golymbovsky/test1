@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What is Flight?
 
 Flight is a fast, simple, extensible framework for PHP. Flight enables you to 
@@ -894,3 +895,6 @@ $app->start();
 
 So instead of calling the static method, you would call the instance method with
 the same name on the Engine object.
+=======
+# test1
+>>>>>>> c971e7298d6826c082607112efbdb7d6d541e6d7
